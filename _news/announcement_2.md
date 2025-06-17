@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Co-organised a local hackathon to detect LLMs’ hallucinations. Got a shared-task paper after that, was fun!
+Co-organised a <a href="https://informatics.tuwien.ac.at/news/2571">local hackathon</a> to detect LLMs’ hallucinations. Published a shared-task paper after that, was fun!
