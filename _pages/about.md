@@ -2,24 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: I wish we could apply mech interp to our brains. Oh, wait a minute...
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Currently doing PhD at TU Wien, Austria. Right now I'm completely fascinated by mechanistic interpretability of LLMs, so my research interest lies in that domain. 
+I am not particularly fond of LLMs, but I feel like we achieved something quite incredible with quite a simple technology. Don't get me wrong, I don't want to 
+belittle the achievements of all these remarkable researchers, but I believe that just scaling the next token token prediction is not going to lead us to the brightest future.
+Anyways, I love digging around in wires & *circuits* of modern LLMs with a hope to understand their "emergent capabilities" and contribute to better architectures in the future.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Besides all that, I'm a huge nerd, storytelling enjoyer and (indie-)gamer. TTRPGs, LARPs, TCGs (mostly Magic) - you name it. I've been DMing for quite a while now - so if interested in a game - just let me know.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I also work at <a href="https://www.charismatic.ai/">Charismatic AI</a> where we use different SOTA technologies (including our own) to generate short animated stories based on your prompt. Still quite uncanny, but fun!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Feel free to reach out, would be happpy to chat about mech interp, art, music, games, singularity, anything else really too.
