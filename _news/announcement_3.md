@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper got accepted at The First Workshop on Large Language Model Memorization at ACL 2025!
+My <a href="https://aclanthology.org/2025.l2m2-1.7/">paper</a> got accepted at The First Workshop on Large Language Model Memorization at ACL 2025!

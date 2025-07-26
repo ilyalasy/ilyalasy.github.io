@@ -20,8 +20,21 @@
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2025.l2m2-1.7/",
     pages = "83--94",
-    ISBN = "979-8-89176-278-7",
-    abstract = "Underlying mechanisms of memorization in LLMs{---}the verbatim reproduction of training data{---}remain poorly understood. What exact part of the network decides to retrieve a token that we would consider as start of memorization sequence? How exactly is the models' behaviour different when producing memorized sentence vs non-memorized? In this work we approach these questions from mechanistic interpretability standpoint by utilizing transformer circuits{---}the minimal computational subgraphs that perform specific functions within the model. Through carefully constructed contrastive datasets, we identify points where model generation diverges from memorized content and isolate the specific circuits responsible for two distinct aspects of memorization. We find that circuits that initiate memorization can also maintain it once started, while circuits that only maintain memorization cannot trigger its initiation. Intriguingly, memorization prevention mechanisms transfer robustly across different text domains, while memorization induction appears more context-dependent."
+    abstract = "Underlying mechanisms of memorization in LLMs{---}the verbatim reproduction of training data{---}remain poorly understood. What exact part of the network decides to retrieve a token that we would consider as start of memorization sequence? How exactly is the models' behaviour different when producing memorized sentence vs non-memorized? In this work we approach these questions from mechanistic interpretability standpoint by utilizing transformer circuits{---}the minimal computational subgraphs that perform specific functions within the model. Through carefully constructed contrastive datasets, we identify points where model generation diverges from memorized content and isolate the specific circuits responsible for two distinct aspects of memorization. We find that circuits that initiate memorization can also maintain it once started, while circuits that only maintain memorization cannot trigger its initiation. Intriguingly, memorization prevention mechanisms transfer robustly across different text domains, while memorization induction appears more context-dependent.",
+    bibtex_show = {true}
+}
+
+@misc{pan2025guidinggenerativestorytellingknowledge,
+      title={Guiding Generative Storytelling with Knowledge Graphs}, 
+      author={Zhijun Pan and Antonios Andronis and Eva Hayek and Oscar AP Wilkinson and Ilya Lasy and Annette Parry and Guy Gadney and Tim J. Smith and Mick Grierson},
+      month = may,
+      year={2025},
+      eprint={2505.24803},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      arxiv={2505.24803},      
+      abstract = "Large Language Models (LLMs) have shown great potential in automated story generation, but challenges remain in maintaining long-form coherence and providing users with intuitive and effective control. Retrieval-Augmented Generation (RAG) has proven effective in reducing hallucinations in text generation; however, the use of structured data to support generative storytelling remains underexplored. This paper investigates how knowledge graphs (KGs) can enhance LLM-based storytelling by improving narrative quality and enabling user-driven modifications. We propose a KG-assisted storytelling pipeline and evaluate its effectiveness through a user study with 15 participants. Participants created their own story prompts, generated stories, and edited knowledge graphs to shape their narratives. Through quantitative and qualitative analysis, our findings demonstrate that knowledge graphs significantly enhance story quality in action-oriented and structured narratives within our system settings. Additionally, editing the knowledge graph increases users' sense of control, making storytelling more engaging, interactive, and playful.",
+      bibtex_show = {true}
 }
 
 @inproceedings{arzt-etal-2024-tu,
@@ -45,5 +58,6 @@
     url = "https://aclanthology.org/2024.semeval-1.173/",
     doi = "10.18653/v1/2024.semeval-1.173",
     pages = "1183--1196",
-    abstract = "This paper discusses challenges in Natural Language Generation (NLG), specifically addressing neural networks producing output that is fluent but incorrect, leading to ``hallucinations''. The SHROOM shared task involves Large Language Models in various tasks, and our methodology employs both model-agnostic and model-aware approaches for hallucination detection. The limited availability of labeled training data is addressed through automatic label generation strategies. Model-agnostic methods include word alignment and fine-tuning a BERT-based pretrained model, while model-aware methods leverage separate classifiers trained on LLMs' internal data (layer activations and attention values). Ensemble methods combine outputs through various techniques such as regression metamodels, voting, and probability fusion. Our best performing systems achieved an accuracy of 80.6{\%} on the model-aware track and 81.7{\%} on the model-agnostic track, ranking 3rd and 8th among all systems, respectively."
+    abstract = "This paper discusses challenges in Natural Language Generation (NLG), specifically addressing neural networks producing output that is fluent but incorrect, leading to ``hallucinations''. The SHROOM shared task involves Large Language Models in various tasks, and our methodology employs both model-agnostic and model-aware approaches for hallucination detection. The limited availability of labeled training data is addressed through automatic label generation strategies. Model-agnostic methods include word alignment and fine-tuning a BERT-based pretrained model, while model-aware methods leverage separate classifiers trained on LLMs' internal data (layer activations and attention values). Ensemble methods combine outputs through various techniques such as regression metamodels, voting, and probability fusion. Our best performing systems achieved an accuracy of 80.6{\%} on the model-aware track and 81.7{\%} on the model-agnostic track, ranking 3rd and 8th among all systems, respectively.",
+    bibtex_show = {true}
 }
