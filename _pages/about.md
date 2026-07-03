@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <em>I wish we could apply mech interp to our brains. Oh, wait a minute...</em>
+subtitle:
 
 profile:
   align: right
@@ -22,7 +22,5 @@ belittle the achievements of all these remarkable researchers, but I believe tha
 Anyways, I love digging around in wires & *circuits* of modern LLMs with a hope to understand their "emergent capabilities" and contribute to better architectures in the future.
 
 Besides all that, I'm a huge nerd, storytelling enjoyer and (indie-)gamer. TTRPGs, LARPs, TCGs (mostly Magic) - you name it. I've been DMing for quite a while now - so if interested in a game - just let me know.
-
-I also work at <a href="https://www.charismatic.ai/">Charismatic AI</a> where we use different SOTA technologies (including our own) to generate short animated stories based on your prompt. Still quite uncanny, but fun!
 
 Feel free to reach out, would be happpy to chat about mech interp, art, music, games, singularity, anything else really too.
